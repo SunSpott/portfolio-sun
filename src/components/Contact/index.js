@@ -42,7 +42,7 @@ const Contact = () => {
                 <div className='text-zone'>
                     <h1>
                         <AnimatedLetter 
-                        letterClass={letterClass}
+                            letterClass={letterClass}
                             strArray={['C','o','n','t','a','c','t',' ','m','e']}
                             idx={15}
                         />
@@ -50,7 +50,7 @@ const Contact = () => {
                     <p>
                         I am interested in any opportunities in Front-end development.
                         If you have any question or a request, don't hesitate to contact me
-                        using the below form or via my Email address: <span>Kritanatsun@gmail.com</span>
+                        using the below form or via my Email address: <span className='email'>Kritanatsun@gmail.com</span>
                     </p>
                     <div className='contact-form'>
                         <form ref={refForm} onSubmit={sendEmail}>
