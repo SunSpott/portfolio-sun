@@ -9,6 +9,8 @@
     left: auto;
     margin: auto;
     opacity: 0;
+    animation: fadeIn 2s 3s;
+    animation-fill-mode: forwards;
 
     svg {
         width: 100%;
@@ -25,7 +27,7 @@
         left: 0;
         margin: auto;
         width: 100%;
-        opacity: 0;
+        opacity: 1;
         transform: rotateZ(30deg);
         z-index: 1;
     }
