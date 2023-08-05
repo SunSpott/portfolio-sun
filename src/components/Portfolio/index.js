@@ -9,7 +9,6 @@ import portfolioData from '../../data/portfolio.json'
 const Portfolio = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
     const str = "My Work".split("")
-    console.log(portfolioData)
 
     useEffect(() => {
         setTimeout(() => {
