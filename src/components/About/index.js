@@ -27,7 +27,7 @@ const About = () => {
                             idx={15}
                         />
                     </h1>
-                    <p>Greetings! I'm a 26-year-old dietetics graduate who has discovered a deep passion for Front-end Development. While my expertise in logical thinking is well-founded, I am eager to embark on this new career path and expand my skills in the world of web development.</p>
+                    <p>Greetings! I'm a 26-year-old dietetics graduate base in Bangkok, Thailand who has discovered a deep passion for Front-end Development. While my expertise in logical thinking is well-founded, I am eager to embark on this new career path and expand my skills in the world of web development.</p>
                     <p>Confidence in my logical abilities drives me forward as I venture into the realm of Front-end Development. Though I may not possess extensive developer experience, I approach every challenge with a growth mindset, excited to learn and collaborate with others in the field.</p>
                     <p>My life's journey has now converged with the captivating world of Front-end development. Empowered by my logical mindset, I am determined to create visually appealing and user-friendly digital solutions. As I gain hands-on experience, I eagerly anticipate the transformations I'll make in the digital landscape.</p>
                 </div>

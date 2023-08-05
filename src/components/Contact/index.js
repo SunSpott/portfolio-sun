@@ -48,7 +48,7 @@ const Contact = () => {
                         />
                     </h1>
                     <p>
-                        I am interested in any opportunities in Front-end development.
+                        I am interested in any opportunities in Front-end development. Mainly in Bangkok, Thailand but also open for work from anywhere jobs.
                         If you have any question or a request, don't hesitate to contact me
                         using the below form or via my Email address: <span className='email'>Kritanatsun@gmail.com</span>
                     </p>
